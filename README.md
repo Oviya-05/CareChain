@@ -5,7 +5,7 @@
 
 [![Firebase](https://img.shields.io/badge/Firebase-10.12.2-orange?logo=firebase)](https://firebase.google.com)
 [![Firestore](https://img.shields.io/badge/Firestore-Cloud-blue?logo=google-cloud)](https://firebase.google.com/products/firestore)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue)](LICENSE)
 [![Domain](https://img.shields.io/badge/Domain-HealthTech-red)](https://github.com)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com)
 
