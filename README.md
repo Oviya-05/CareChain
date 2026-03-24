@@ -451,16 +451,6 @@ carechain/
 
 ---
 
-## 🏆 Hackathon
-
-This project was built for **HackHustle 2.0** organized by Saveetha Engineering College, affiliated to Anna University.
-
-- **Domain:** Healthcare
-- **Event:** HackHustle 2.0
-- **Organizer:** The Tech Society, Saveetha Engineering College
-
----
-
 ## 📜 License
 
 This project is licensed under the Apache License — see the [LICENSE](LICENSE) file for details.
