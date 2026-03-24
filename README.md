@@ -476,7 +476,7 @@ This project is licensed under the Apache License — see the [LICENSE](LICENSE)
 
 ---
 
-## Link
+## 🔗 Link
 
 https://carechain-app.web.app/
 
