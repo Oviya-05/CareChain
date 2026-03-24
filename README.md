@@ -11,7 +11,7 @@
 
 > **One encrypted identity. Your complete medical profile — accessible in seconds, only when it matters most.**
 
-<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/02773aab-dfc1-44a9-b4cb-09b79425575b" />
+
 
 
 </div>
