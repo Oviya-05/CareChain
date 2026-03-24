@@ -11,7 +11,8 @@
 
 > **One encrypted identity. Your complete medical profile — accessible in seconds, only when it matters most.**
 
-<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/02773aab-dfc1-44a9-b4cb-09b79425575b" />
+<img width="1913" height="903" alt="image" src="https://github.com/user-attachments/assets/ae87455f-b0bf-46ad-ab5f-40dd746cebba" />
+
 
 
 </div>
@@ -383,17 +384,19 @@ carechain/
 
 ### Patient Dashboard
 
-<img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/ae04bd69-e335-432b-a324-8646678e3448" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/5cd5a7ff-5eff-47db-a96f-be00648a13f8" />
 
 
 ### Hospital Dashboard
 
-<img width="1897" height="905" alt="image" src="https://github.com/user-attachments/assets/9a699e92-d15b-4556-a49d-74ffd8c766e8" />
+
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/7b584a02-ae50-4683-9c86-e2d5b52b62e1" />
 
 
 ### Police Dashboard
 
-<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/2d1e9997-3b9e-4012-9998-4bfa0e0499e4" />
+<img width="1919" height="903" alt="Screenshot 2026-03-24 132116" src="https://github.com/user-attachments/assets/07042d29-97ab-4134-a508-e6ddd1023ba9" />
+
 
 
 ---
