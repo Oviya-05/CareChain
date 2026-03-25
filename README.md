@@ -475,7 +475,7 @@ https://carechain-app.web.app/
 
 <div align="center">
 
-**Built with ❤️ for India's emergency healthcare infrastructure**
+**Built with ❤️ for emergency healthcare infrastructure**
 
 *CareChain — One Thread, Every Heart. One Link, In Sync.
 When Seconds Matter, the Chain won't Shatter.*
