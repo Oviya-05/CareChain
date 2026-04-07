@@ -18,7 +18,7 @@
 </div>
 
 ---
-## 🚨 The Problem
+##  1. The Problem
 
 India records **1.5 lakh+ road accident deaths annually**. A significant percentage of victims arrive at hospitals **unconscious and unidentified** — with no medical history, no allergy information, and no emergency contact details.
 
@@ -54,7 +54,7 @@ Studies show unidentified patients in Indian emergency rooms had a **median iden
 
 ---
 
-## 💡 The Solution
+## 2. The Solution
 
 **CareChain** is a tri-party verified emergency medical identity platform — the only system that works even when the patient is **unconscious**.
 
@@ -82,7 +82,7 @@ Unlike ABHA, unlike blockchain-based EMR systems, unlike traditional hospital re
 
 ---
 
-## ✨ Key Features
+## 3. Key Features
 
 **Patient**
 - Unique CareChain ID with emergency overview — blood group, allergies, conditions
@@ -105,7 +105,7 @@ Unlike ABHA, unlike blockchain-based EMR systems, unlike traditional hospital re
 
 ---
 
-## 🏗 System Architecture
+## 4. System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -142,7 +142,7 @@ Unlike ABHA, unlike blockchain-based EMR systems, unlike traditional hospital re
 
 ---
 
-## 🛠 Tech Stack
+## 5. Tech Stack
 
 | Layer | Technology | Purpose |
 |---|---|---|
@@ -156,7 +156,7 @@ Unlike ABHA, unlike blockchain-based EMR systems, unlike traditional hospital re
 
 ---
 
-## 🗄 Database Schema
+## 6. Database Schema
 
 ```
 Firestore Root
@@ -203,7 +203,7 @@ Firestore Root
 
 ---
 
-## 🔐 Security Model
+## 7. Security Model
 
 ### Three-party verification
 
@@ -252,8 +252,8 @@ match /auditLog/{logId} {
 - Every access event logged in immutable audit trail
 
 ---
-## 🔑 Demo Credentials
-### 🧑‍⚕️ Patients
+## 8. Demo Credentials
+### 8.1. Patients
 
 
 
@@ -279,7 +279,7 @@ match /auditLog/{logId} {
 
 ---
 
-### 🏥 Hospitals
+### 8.2. Hospitals
 
 | Email | Password |
 |:---|:---|
@@ -300,7 +300,7 @@ match /auditLog/{logId} {
 
 ---
 
-### 🛡️ Police Stations
+### 8.3. Police Stations
 
 | Email | Password |
 |:---|:---|
@@ -320,7 +320,7 @@ match /auditLog/{logId} {
 
 ---
 
-## 📁 Project Structure
+## 9. Project Structure
 
 ```
 carechain/
@@ -354,7 +354,7 @@ carechain/
 
 ---
 
-## 👥 User Flows
+## 10. User Flows
 
 ### Emergency Flow
 
@@ -401,7 +401,7 @@ carechain/
 
 ---
 
-## 🌍 UN SDG Alignment
+## 11. UN SDG Alignment
 
 | SDG | Goal | How CareChain contributes |
 |---|---|---|
@@ -412,7 +412,7 @@ carechain/
 
 ---
 
-## 📊 Existing Systems Comparison
+## 12. Existing Systems Comparison
 
 <div align="center">
 
@@ -435,29 +435,29 @@ carechain/
 
 ---
 
-## 🔭 Future Scope
-> 🔐 **Aadhaar OTP Verification** — Integrate UIDAI sandbox API for government-backed identity verification during patient signup, replacing manual Aadhaar entry with real-time OTP confirmation.
+## 13. Future Scope
+> -  **Aadhaar OTP Verification** — Integrate UIDAI sandbox API for government-backed identity verification during patient signup, replacing manual Aadhaar entry with real-time OTP confirmation.
 
-> 📲 **SMS & WhatsApp Alerts** — Emergency notifications to family members the moment police approval is granted, with multi-language support across Tamil, Hindi, and Telugu.
+> -  **SMS & WhatsApp Alerts** — Emergency notifications to family members the moment police approval is granted, with multi-language support across Tamil, Hindi, and Telugu.
 
-> 📄 **Medical Document Upload** — Attach scan reports, X-rays, ECGs, and discharge PDFs directly to patient records via Firebase Storage with per-document patient verification.
+> -  **Medical Document Upload** — Attach scan reports, X-rays, ECGs, and discharge PDFs directly to patient records via Firebase Storage with per-document patient verification.
 
-> 📊 **Admin & Analytics Dashboard** — District-wise access heatmap, average police response time, audit log viewer with filters, and DISHA compliance report generation for regulatory audits.
+> -  **Admin & Analytics Dashboard** — District-wise access heatmap, average police response time, audit log viewer with filters, and DISHA compliance report generation for regulatory audits.
 
-> 📱 **Mobile Application** — React Native cross-platform app with offline emergency card, push notifications, and camera QR scan for instant CareChain ID lookup at accident sites.
+> -  **Mobile Application** — React Native cross-platform app with offline emergency card, push notifications, and camera QR scan for instant CareChain ID lookup at accident sites.
 
-> 🏥 **ABHA Integration** — Map CareChain ID to existing ABHA numbers and pull ABDM-linked records via FHIR R4 gateway — positioning CareChain as a complementary emergency layer on India's national health stack.
+> -  **ABHA Integration** — Map CareChain ID to existing ABHA numbers and pull ABDM-linked records via FHIR R4 gateway — positioning CareChain as a complementary emergency layer on India's national health stack.
 
 
 ---
 
-## 📜 License
+## 14. License
 
 This project is licensed under the Apache License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgements
+## 15. Acknowledgements
 
 - National Health Authority India — ABHA/ABDM documentation
 - Firebase by Google — real-time database and authentication infrastructure
@@ -466,7 +466,7 @@ This project is licensed under the Apache License — see the [LICENSE](LICENSE)
 
 ---
 
-## 🔗 Link
+## 16. Link
 
 https://carechain-app.web.app/
 
